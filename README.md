@@ -35,4 +35,8 @@ All charts are available inside the `images/` folder:
 3. Content production increased sharply after 2016.
 4. USA & India are the top content-producing countries.
 
-## 📁 Project Structure
+## 👨‍💻 Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
