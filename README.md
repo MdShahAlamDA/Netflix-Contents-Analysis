@@ -40,3 +40,10 @@ All charts are available inside the `images/` folder:
 - Pandas
 - Matplotlib
 - Seaborn
+
+## 📈 Key Insights
+- Netflix has more Movies than TV Shows.
+- Popular genres: Drama, Comedy, International Movies.
+- Huge growth after 2016.
+- USA & India produce most Netflix titles.
+- Movies mostly 80–120 minutes long.
