@@ -47,3 +47,25 @@ All charts are available inside the `images/` folder:
 - Huge growth after 2016.
 - USA & India produce most Netflix titles.
 - Movies mostly 80–120 minutes long.
+
+## 🚀 **How to Use**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/Customer-Shopping-Behavior-Analysis.git
+
+
+# ***👨‍💻 Author***
+
+**Md Shah Alam**  
+Data Analyst | SQL • Python • Power BI • Excel  
+
+📧 Email: **mdshahalam906565@gmail.com**  
+
+🔗 GitHub: **https://github.com/MdShahAlamDA**  
+
+🔗 LinkedIn: **https://www.linkedin.com/in/md-shah-alam-671602343/**  
+
+*Passionate about turning raw data into meaningful insights and business value.*
+
+
+⭐ **If you found this project helpful, don’t forget to give it a star on GitHub!**
