@@ -51,7 +51,7 @@ All charts are available inside the `images/` folder:
 ## 🚀 **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Customer-Shopping-Behavior-Analysis.git
+   git clone https://github.com/YourUsername/Netflix-Contents-Analysis.git
 
 
 # ***👨‍💻 Author***
